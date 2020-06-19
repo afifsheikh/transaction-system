@@ -1,0 +1,8 @@
+.status{
+    font-size: 15px;
+    color: green;
+    padding: 15px;
+}
+.status span{
+    color: red;
+}
